@@ -34,8 +34,20 @@
 
 ### 🌐 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://em-srs.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srs1717)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/em-srs)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/em_srs_)
+
+---
+
+### 📸 Through the Lens
+
+Beyond code, I shoot portrait, object, scenery & moonshot photography.
+
+> "Code and photography share the same obsession — finding the perfect composition."
+
+**[View the full gallery on my portfolio →](https://em-srs.vercel.app/#lens)**
 
 ---
 
