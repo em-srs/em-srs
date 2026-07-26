@@ -34,10 +34,13 @@
 
 ### 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://em-srs.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srs1717)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/em-srs)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/em_srs_)
+<p align="center">
+  <a href="https://em-srs.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/srs1717"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/em-srs"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/em_srs_"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:sunnyprfrvr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -57,6 +60,14 @@ Beyond code, I shoot portrait, object, scenery & moonshot photography.
 - **Flow** — MERN-stack GitHub explorer (React, Node.js, Express, MongoDB)
 - **Vision-Hub** — MERN video streaming platform (React, Node.js, Express, MongoDB)
 - **CustomBix** — IndiaBix-style test generator (Node.js, Express, Puppeteer)
+
+---
+
+### 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/me_srs?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
 ---
 
