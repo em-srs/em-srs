@@ -75,7 +75,7 @@ Beyond code, I shoot portrait, object, scenery & moonshot photography.
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=em-srs&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=em-srs&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.vercel.app/?user=em-srs&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
