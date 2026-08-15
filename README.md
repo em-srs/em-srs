@@ -10,11 +10,11 @@
 
 ### 🚀 About Me
 
-- 🎓 3rd-year B.Tech CSE student at Chandigarh Engineering College (CGC), Mohali — IKGPTU
+- 🎓 Final year B.Tech CSE student at Chandigarh Engineering College (CGC), Landran — IKGPTU
 - 🔭 Currently building **MediFly** — a hyperlocal healthcare & medicine delivery platform
 - 💼 Actively looking for **backend / full-stack internships**
 - 🌱 Sharpening Data Structures & Algorithms and system design fundamentals
-- 📫 Reach me at [srs1717](https://linkedin.com/in/srs1717) on LinkedIn
+- 📫 Reach me at [em-srs](https://linkedin.com/in/em-srs) on LinkedIn
 
 ---
 
@@ -75,7 +75,7 @@ Beyond code, I shoot portrait, object, scenery & moonshot photography.
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=em-srs&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.vercel.app/?user=em-srs&theme=dark&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=em-srs&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
