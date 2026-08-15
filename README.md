@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- 🎓 3rd-year B.Tech CSE student at Chandigarh Engineering College (CGC), Mohali — IKGPTU
+- 🎓 3rd-year B.Tech CSE student at Chandigarh Engineering College (CGC), Landran — IKGPTU
 - 🔭 Currently building **MediFly** — a hyperlocal healthcare & medicine delivery platform
 - 💼 Actively looking for **backend / full-stack internships**
 - 🌱 Sharpening Data Structures & Algorithms and system design fundamentals
