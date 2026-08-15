@@ -85,6 +85,3 @@ Beyond code, I shoot portrait, object, scenery & moonshot photography.
 ---
 
 <p align="center"><i>"Every idea deserves a working prototype."</i></p>
----
-
-<p align="center"><i>"Every idea deserves a working prototype."</i></p>
