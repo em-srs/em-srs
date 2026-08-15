@@ -3,7 +3,7 @@
 <h3 align="center">Backend-leaning full-stack developer | Java • Spring Boot • React</h3>
 
 <p align="center">
-  A Computer Science Engineering student building real, working products — not just tutorials.
+  A Computer Science Engineering student building real, working products.
 </p>
 
 ---
