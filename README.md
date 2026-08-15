@@ -73,8 +73,6 @@ Beyond code, I shoot portrait, object, scenery & moonshot photography.
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=em-srs&show_icons=true&theme=dark&hide_border=true&count_private=true" />
   <img height="165" src="https://streak-stats.demolab.com/?user=em-srs&theme=dark&hide_border=true" />
@@ -83,6 +81,10 @@ Beyond code, I shoot portrait, object, scenery & moonshot photography.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=em-srs&layout=compact&theme=dark&hide_border=true" />
 </p>
+
+---
+
+<p align="center"><i>"Every idea deserves a working prototype."</i></p>
 ---
 
 <p align="center"><i>"Every idea deserves a working prototype."</i></p>
