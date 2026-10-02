@@ -58,11 +58,12 @@ Beyond code, I shoot portrait, object, scenery & moonshot photography.
 
 ### 📌 Pinned Projects
 
-- **[MediFly](https://medifly-zeta.vercel.app)** — Hyperlocal healthcare & medicine delivery platform (Node.js, Express, PostgreSQL)
-- **DriveHub** — Test-driven dealership platform (FastAPI, PostgreSQL, pytest)
+- **[CustomBix](https://custombix.vercel.app/)** — IndiaBix-style test generator with PDF export (Node.js, Express, Axios, Cheerio)
+- **[DriveHub](https://srs-dealership.vercel.app/)** — Dealership platform with role-based auth and search APIs (FastAPI, PostgreSQL, pytest)
+- **[MediFly](https://medi-fly.vercel.app/)** — Hyperlocal healthcare & medicine delivery platform (Node.js, Express, PostgreSQL, Supabase)
+- **[Photography Portfolio](https://srs-shots.vercel.app/)** — My mobile photography: portraits, moonshots & scenery
 - **Flow** — MERN-stack GitHub explorer (React, Node.js, Express, MongoDB)
 - **Vision-Hub** — MERN video streaming platform (React, Node.js, Express, MongoDB)
-- **CustomBix** — IndiaBix-style test generator (Node.js, Express, Puppeteer)
 
 ---
 
